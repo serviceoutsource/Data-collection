@@ -14,3 +14,5 @@
 ### 菜谱信息：https://www.xinshipu.com/%E8%8F%9C%E8%B0%B1%E5%A4%A7%E5%85%A8.html 、https://www.xiachufang.com/category/40076/ 、 http://www.chinacaipu.com/
 
 ### 问答相关：https://www.ctolib.com/S-H-Y-GitHub-QA.html
+
+### 多轮问答相关：https://www.leiphone.com/news/201704/8ofqhd0UEJVjgWHv.html ；https://www.leiphone.com/news/201703/ZyBG3OEXmCoOCryl.html ；https://www.jiqizhixin.com/articles/2017-11-03-28
