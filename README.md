@@ -16,3 +16,5 @@
 ### 问答相关：https://www.ctolib.com/S-H-Y-GitHub-QA.html
 
 ### 多轮问答相关：https://www.jiqizhixin.com/articles/2017-11-03-28
+
+### 用户画像刻画：http://www.bijishequ.com/detail/330806
