@@ -20,3 +20,5 @@
 ### 用户画像刻画：http://www.bijishequ.com/detail/330806
 
 ### 食品营养成分分析数据：http://dataju.cn/Dataju/publishing/payContentPublishingDescription/708
+
+### 情感分析数据集：http://blog.csdn.net/peterchan88/article/details/78436802
