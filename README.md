@@ -18,3 +18,5 @@
 ### 多轮问答相关：https://www.jiqizhixin.com/articles/2017-11-03-28
 
 ### 用户画像刻画：http://www.bijishequ.com/detail/330806
+
+### 食品营养成分分析数据：http://dataju.cn/Dataju/publishing/payContentPublishingDescription/708
